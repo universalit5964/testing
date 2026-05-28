@@ -43,7 +43,7 @@ public class PostSteps {
 
     @Then("Then video should get posted on the user wall")
     public void then_video_should_get_posted_on_the_wall() {
-        System.out.println("Then video should get posted on the user wall");
+        System.out.println("Then video get posted on the user wall");
     }
 
     @Then("the video should have proper thumbnail")
